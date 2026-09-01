@@ -1,0 +1,13 @@
+order_id,customer,order_date,amount,status
+O-1001,Asha Verma,2026-03-01,1999,active
+O-1002,Rahul Iyer,2026-03-02,5000,active
+O-1003,Meera Nair,2026-03-03,12000,active
+O-1004,Zoë Müller,2026-03-04,4999,active
+O-1005,Karan Shah,2026-03-05,750,cancelled
+O-1006,Priya Das,2026-03-06,2500,active
+O-1007,Dev Patel,2026-03-07,3000,active
+O-1008,Sana Khan,2026-03-08,8800,active
+O-1009,Vikram Rao,2026-03-10,1500,active
+O-1010,Neha Joshi,2026-03-12,6000,active
+O-1011,Arjun Mehta,2026-03-15,2999,active
+O-1012,Fatima Ali,2026-03-20,999,active
